@@ -9,7 +9,7 @@ This is to tell about the introduction to GIT Repo setup
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As ststed above this is to show example if GIT repo and working.
 
 ## Deployment
 
