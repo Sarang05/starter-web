@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-
+This is to tell about the introduction to GIT Repo setup
 
 ## Purpose
 
