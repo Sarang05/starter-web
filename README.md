@@ -14,4 +14,6 @@ As ststed above this is to show example if GIT repo and working.
 ## Deployment
 
 
+This is a simple web project and can be stored on local machine or any server.
+
 ## How to contribute
