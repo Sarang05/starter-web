@@ -19,3 +19,6 @@ This is a simple web project and can be stored on local machine or any server.
 ## How to contribute
 
 Git Training 2021
+
+
+forking repository and then pulling.
