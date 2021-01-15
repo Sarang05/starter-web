@@ -20,5 +20,8 @@ This is a simple web project and can be stored on local machine or any server.
 
 Git Training 2021
 
+### Copyright
+
+All Rights Reserved
 
 forking repository and then pulling.
